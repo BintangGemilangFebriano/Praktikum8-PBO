@@ -74,14 +74,6 @@ Data barang disimpan dalam file `data_barang.txt`. Program memuat data yang ters
 
 Penyimpanan pada versi ini menggunakan file teks lokal dan belum menggunakan database.
 
-## Batasan Project
-
-Aplikasi ini masih menggunakan antarmuka berbasis console dan penyimpanan file teks lokal. Fitur diskon digunakan untuk simulasi perhitungan harga, bukan untuk mencatat transaksi penjualan sebenarnya.
-
-## Pengembangan Selanjutnya
-
-Pengembangan berikutnya dapat mencakup integrasi database MySQL, antarmuka GUI, autentikasi pengguna, laporan stok, dan pencatatan riwayat barang masuk serta barang keluar.
-
 ## Identitas Pengembang
 
 - Nama: Bintang Gemilang Febriano
